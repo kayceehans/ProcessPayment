@@ -64,3 +64,9 @@ C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib
 C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.MODEL.dll
 C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.MODEL.pdb
 C:\FiledProject\Payment.API\Payment.API\obj\Debug\netcoreapp3.1\Payment.API.csproj.CopyComplete
+C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.ENUM.dll
+C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.dll
+C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.SERVICE.dll
+C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.ENUM.pdb
+C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.pdb
+C:\FiledProject\Payment.API\Payment.API\bin\Debug\netcoreapp3.1\Payment.SERVICE.pdb

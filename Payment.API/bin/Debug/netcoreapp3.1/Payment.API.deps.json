@@ -27,7 +27,10 @@
           "Microsoft.EntityFrameworkCore": "5.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.3",
+          "Payment.ENUM": "1.0.0",
           "Payment.MODEL": "1.0.0",
+          "Payment.RESPOSITORY": "1.0.0",
+          "Payment.SERVICE": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -1404,6 +1407,17 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "Payment.ENUM/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.3"
+        },
+        "runtime": {
+          "Payment.ENUM.dll": {}
+        },
+        "compile": {
+          "Payment.ENUM.dll": {}
+        }
+      },
       "Payment.MODEL/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.3",
@@ -1415,6 +1429,28 @@
         },
         "compile": {
           "Payment.MODEL.dll": {}
+        }
+      },
+      "Payment.RESPOSITORY/1.0.0": {
+        "dependencies": {
+          "Payment.MODEL": "1.0.0"
+        },
+        "runtime": {
+          "Payment.RESPOSITORY.dll": {}
+        },
+        "compile": {
+          "Payment.RESPOSITORY.dll": {}
+        }
+      },
+      "Payment.SERVICE/1.0.0": {
+        "dependencies": {
+          "Payment.RESPOSITORY": "1.0.0"
+        },
+        "runtime": {
+          "Payment.SERVICE.dll": {}
+        },
+        "compile": {
+          "Payment.SERVICE.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3731,7 +3767,22 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "Payment.ENUM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Payment.MODEL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Payment.RESPOSITORY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Payment.SERVICE/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

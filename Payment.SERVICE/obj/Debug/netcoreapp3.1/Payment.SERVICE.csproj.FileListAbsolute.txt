@@ -7,3 +7,8 @@ C:\FiledProject\Payment.API\Payment.SERVICE\obj\Debug\netcoreapp3.1\Payment.SERV
 C:\FiledProject\Payment.API\Payment.SERVICE\obj\Debug\netcoreapp3.1\Payment.SERVICE.csproj.CoreCompileInputs.cache
 C:\FiledProject\Payment.API\Payment.SERVICE\obj\Debug\netcoreapp3.1\Payment.SERVICE.dll
 C:\FiledProject\Payment.API\Payment.SERVICE\obj\Debug\netcoreapp3.1\Payment.SERVICE.pdb
+C:\FiledProject\Payment.API\Payment.SERVICE\bin\Debug\netcoreapp3.1\Payment.MODEL.dll
+C:\FiledProject\Payment.API\Payment.SERVICE\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.dll
+C:\FiledProject\Payment.API\Payment.SERVICE\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.pdb
+C:\FiledProject\Payment.API\Payment.SERVICE\bin\Debug\netcoreapp3.1\Payment.MODEL.pdb
+C:\FiledProject\Payment.API\Payment.SERVICE\obj\Debug\netcoreapp3.1\Payment.SERVICE.csproj.CopyComplete

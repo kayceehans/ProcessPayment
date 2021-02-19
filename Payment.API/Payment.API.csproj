@@ -14,7 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Payment.ENUM\Payment.ENUM.csproj" />
     <ProjectReference Include="..\Payment.MODEL\Payment.MODEL.csproj" />
+    <ProjectReference Include="..\Payment.RESPOSITORY\Payment.RESPOSITORY.csproj" />
+    <ProjectReference Include="..\Payment.SERVICE\Payment.SERVICE.csproj" />
   </ItemGroup>
 
 
