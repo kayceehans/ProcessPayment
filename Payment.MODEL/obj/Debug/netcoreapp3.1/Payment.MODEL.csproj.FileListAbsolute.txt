@@ -1,0 +1,12 @@
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.csprojAssemblyReference.cache
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.AssemblyInfoInputs.cache
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.AssemblyInfo.cs
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.csproj.CoreCompileInputs.cache
+C:\FiledProject\Payment.API\Payment.MODEL\bin\Debug\netcoreapp3.1\Payment.MODEL.deps.json
+C:\FiledProject\Payment.API\Payment.MODEL\bin\Debug\netcoreapp3.1\Payment.MODEL.runtimeconfig.json
+C:\FiledProject\Payment.API\Payment.MODEL\bin\Debug\netcoreapp3.1\Payment.MODEL.runtimeconfig.dev.json
+C:\FiledProject\Payment.API\Payment.MODEL\bin\Debug\netcoreapp3.1\Payment.MODEL.dll
+C:\FiledProject\Payment.API\Payment.MODEL\bin\Debug\netcoreapp3.1\Payment.MODEL.pdb
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.dll
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.pdb
+C:\FiledProject\Payment.API\Payment.MODEL\obj\Debug\netcoreapp3.1\Payment.MODEL.genruntimeconfig.cache

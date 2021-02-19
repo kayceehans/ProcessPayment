@@ -1,0 +1,12 @@
+C:\FiledProject\Payment.API\Payment.ENUM\bin\Debug\netcoreapp3.1\Payment.ENUM.deps.json
+C:\FiledProject\Payment.API\Payment.ENUM\bin\Debug\netcoreapp3.1\Payment.ENUM.runtimeconfig.json
+C:\FiledProject\Payment.API\Payment.ENUM\bin\Debug\netcoreapp3.1\Payment.ENUM.runtimeconfig.dev.json
+C:\FiledProject\Payment.API\Payment.ENUM\bin\Debug\netcoreapp3.1\Payment.ENUM.dll
+C:\FiledProject\Payment.API\Payment.ENUM\bin\Debug\netcoreapp3.1\Payment.ENUM.pdb
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.csprojAssemblyReference.cache
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.AssemblyInfoInputs.cache
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.AssemblyInfo.cs
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.csproj.CoreCompileInputs.cache
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.dll
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.pdb
+C:\FiledProject\Payment.API\Payment.ENUM\obj\Debug\netcoreapp3.1\Payment.ENUM.genruntimeconfig.cache

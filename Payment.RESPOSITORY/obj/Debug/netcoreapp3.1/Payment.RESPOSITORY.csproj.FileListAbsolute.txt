@@ -1,0 +1,12 @@
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.deps.json
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.dll
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\bin\Debug\netcoreapp3.1\Payment.RESPOSITORY.pdb
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.csprojAssemblyReference.cache
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.AssemblyInfoInputs.cache
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.AssemblyInfo.cs
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.csproj.CoreCompileInputs.cache
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.dll
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.pdb
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\bin\Debug\netcoreapp3.1\Payment.MODEL.dll
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\bin\Debug\netcoreapp3.1\Payment.MODEL.pdb
+C:\FiledProject\Payment.API\Payment.RESPOSITORY\obj\Debug\netcoreapp3.1\Payment.RESPOSITORY.csproj.CopyComplete
